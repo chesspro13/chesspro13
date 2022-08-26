@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Mauldin</h1>
 <h3 align="center">A hobbiest developer from California</h3>
 
-- 🔭 I’m currently working on [Electrical Training Simulator](https://github.com/chesspro13/electricalsimulator.git)
+- 🔭 I’m currently working on [Electrical Training Simulator](https://github.com/chesspro13/electricalsimulatorscripts.git)
 
 - 📫 How to reach me **Brandon@mauldin314.com**
 
