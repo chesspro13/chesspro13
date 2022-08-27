@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brandon Mauldin</h1>
+<h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A hobbiest developer from California</h3>
+
+<p align="left">I have been praticing programming off and on for over ten years. I am not an expert in any speciffic area, but have dabbled in many different areas.</p>
 
 - 🔭 I’m currently working on [Electrical Training Simulator](https://github.com/chesspro13/electricalsimulatorscripts.git)
 
