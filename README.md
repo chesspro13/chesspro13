@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A hobbiest developer from California</h3>
+<h3 align="center">A hobbiest developer</h3>
 
 <p align="left">I have been praticing programming off and on for over ten years. I am not an expert in any speciffic area, but have dabbled in many different areas.</p>
 
